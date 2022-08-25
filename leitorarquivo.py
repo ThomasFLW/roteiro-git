@@ -1,4 +1,3 @@
-
 class LeitorArquivo:
     def __init__(self, nomeArquivo):
         self.arq = open(nomeArquivo, 'r')
